@@ -11,5 +11,6 @@
 
     <modules>
         <module>chapter-1-springing-into-action</module>
+        <module>chapter-2-wiring-beans</module>
     </modules>
 </project>
