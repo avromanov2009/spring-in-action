@@ -1,4 +1,4 @@
-package config;
+package app.config;
 
 import dessert.Cake;
 import dessert.Dessert;

@@ -1,5 +1,6 @@
 package soundsystem;
 
+import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.contrib.java.lang.system.SystemOutRule;
@@ -14,6 +15,7 @@ import static org.junit.Assert.assertTrue;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = CDPlayerConfig.class)
+@Ignore
 public class CDPlayerTest {
     @Rule
     public final SystemOutRule log = new SystemOutRule().enableLog();

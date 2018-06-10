@@ -1,6 +1,6 @@
-import config.DataSourceConfig;
-import config.DessertConfig;
-import config.MagicBeanConfig;
+import app.config.DataSourceConfig;
+import app.config.DessertConfig;
+import app.config.MagicBeanConfig;
 import dessert.Dessert;
 import dessert.annotations.Cold;
 import dessert.annotations.Creamy;

@@ -1,4 +1,4 @@
-package config;
+package app.config;
 
 import notepad.Notepad;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
