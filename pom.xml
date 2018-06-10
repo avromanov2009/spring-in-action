@@ -19,5 +19,6 @@
         <module>chapter-2-wiring-beans</module>
         <module>chapter-3-advanced-wiring</module>
         <module>chapter-4-aspect-oriented-spring</module>
+        <module>chapter-5-building-spring-web-apps</module>
     </modules>
 </project>
